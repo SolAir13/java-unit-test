@@ -13,5 +13,5 @@ public class Program {
         } else {
             return false;
         }
-    }//проверка возраста
+    }
 }

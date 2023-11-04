@@ -7,6 +7,7 @@ public class ShoppingCart {
 
     public ShoppingCart(Food[] food) {
         this.food = food;
+
     }
 
     Food[] food;

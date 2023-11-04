@@ -2,6 +2,7 @@ package service;
 
 import model.Food;
 
+
 public class ShoppingCart {
 
     public ShoppingCart(Food[] food) {
